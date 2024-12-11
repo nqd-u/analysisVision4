@@ -1,6 +1,3 @@
-Here’s the updated version of the `README.md` without symbols like `#`, `---`, `*`, etc.:
-
----
 
 AnalysisVision4
 
